@@ -1,6 +1,6 @@
 Markdown
 
-# 🎓 ElimuChain - Decentralized Certification Prototype
+# 🎓 Decentralized Ledger Prototype
 
 > **Status:** 🚧 Work in Progress (Prototype Phase)
 
